@@ -1,4 +1,4 @@
-package com.example.mepoupe
+package com.spaceit.mepoupe
 
 import io.flutter.embedding.android.FlutterActivity
 

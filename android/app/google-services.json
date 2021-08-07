@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917514773257",
+    "project_id": "mepoupe-2e39c",
+    "storage_bucket": "mepoupe-2e39c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917514773257:android:6547e5581d0dc3e950a9d8",
+        "android_client_info": {
+          "package_name": "com.spaceit.mepoupe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917514773257-n96s36hdvj9hud32k9tj2sd4n8f9nd0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4rqtL6aZz7IE1MoUi9hrFhjAkxNn2QnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917514773257-n96s36hdvj9hud32k9tj2sd4n8f9nd0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
